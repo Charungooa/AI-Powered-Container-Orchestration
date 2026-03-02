@@ -1,6 +1,6 @@
 # Workflow to deploy Docker image to Docker container instance in GKE.
 
-name: CI
+name: deploy Docker image to Docker container instance in GKE
 
 # Controls when the workflow will run
 on:
