@@ -1,6 +1,6 @@
 # Terraform Deployment of GKE cluster
 
-name: CI
+name: Terraform Deployment of GKE cluster
 
 # Controls when the workflow will run
 on:
